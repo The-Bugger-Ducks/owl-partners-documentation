@@ -21,10 +21,10 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, a soluç
 Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web, mobile, back...), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 13/03/2023 | ✔️ Em andamento    | -- |
-| 02 | 03/04/2023 | 🛑 Não iniciada    | -- |
-| 03 | 24/04/2023 | 🛑 Não iniciada    | -- |
-| 04 | 15/05/2023 | 🛑 Não iniciada    | -- |
+| 01 | 02/04/2023 | ✔️ Em andamento    | Em breve... |
+| 02 | 23/04/2023 | 🛑 Não iniciada    | -- |
+| 03 | 14/05/2023 | 🛑 Não iniciada    | -- |
+| 04 | 04/06/2023 | 🛑 Não iniciada    | -- |
 
 → [Voltar ao topo](#topo)
 
@@ -33,10 +33,10 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 ## :dart: Backlogs, Épicos & User Stories
 
 <div align="center">
-
-![BACKLOGS]()
+   <img src="https://user-images.githubusercontent.com/69374340/226353531-c3f7c1e8-1490-4456-b03f-37785382ed39.png" alt="BACKLOGS" width="600px"/> 
+   <img src="https://user-images.githubusercontent.com/69374340/226354142-5d30a9e2-94d5-4a12-a9e6-e88efb640324.png" alt="USER STORIES" width="800px"/> 
 </div>
-  
+
 → [Voltar ao topo](#topo)
 
 <span id="tecnologias">
