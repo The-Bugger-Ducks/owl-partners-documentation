@@ -27,23 +27,19 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 ## 📲 Entregas
 Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints, Épicos e User Stories, através de comunicação direta entre o P.O. e o cliente. Para observar esses artefatos, acesse [este link](https://github.com/The-Bugger-Ducks/owl-partners-documentation#backlogs).
 
-Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo foi traduzido para um aplicativo em React Native e com as devidas integrações das funcionalidades acordadas para esta sprint.
+Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo foi traduzido para um aplicativo em React Native e com as devidas integrações das funcionalidades acordadas para esta sprint. Abaixo se confere uma demosntração das entregas da sprint:
+
+<div align="center">
+<img src="./sprint-1-demo.gif" alt="Demonstração das entregas da sprint 1" />
+</div>
 
 ### RF 01: CRUD de parcerias
 
 Este requisito se trata do cadastro, listagem, edição e exclusão de parcerias, onde, para isso, foi desenvolvido um fluxo básico de login e o acesso ao app, permitindo todas essas ações pelo usuário logado. A criação de contas, bem como outras ações relacionadas a contas de usuário serão desenvolvidas em próximas sprints, ao passo que toda a manipulação de parcerias, a grosso modo, já está estruturada e em pleno funcionamento.
 
-<div align="center">
-<img src="./partnerships.gif" alt="Demonstração do CRUD de parcerias" />
-</div>
-
 ### RF 03: Criação, edição e leitura de comentários de atualização em parcerias
 
 Este requisito se trata da criação, edição e leitura de comentários de atualização em parcerias, requisito este finalizado nesta sprint, como pode-se observar na demonstração abaixo que contem um exemplo da listagem de comentários de uma paceria específica, bem como a criação e edição de um novo comentário.
-
-<div align="center">
-<img src="./comments.gif" alt="Demonstração da criação, edição e leitura de comentários de atualização em parcerias" />
-</div>
 
 ### RNF 08: Documentação no GitHub com mapeamento das regras de negócio do cliente
 
