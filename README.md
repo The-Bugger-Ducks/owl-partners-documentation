@@ -1,77 +1,76 @@
-<h1 align="center"> 🦉 Owl Partners 🦉 </h1>
-
 <span id="topo">
+
+<h1 align="center">Sprint 1: 13/03/2023 a 02/04/2023</h1>
+
 <p align="center">
-    <a href="#sobre">Sobre</a>  |  
-    <a href="#backlogs">Backlogs, Épicos & User Stories</a>  |  
-    <a href="#tecnologias">Tecnologias</a>  |  
-    <a href="#equipe">Equipe</a>
+    <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
+    <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
+    <a href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp
+    <a href="#links">Links úteis</a>
 </p>
-   
-<span id="sobre">
 
-## :bookmark_tabs: Sobre o projeto
-A partir da apresentação do desafio enfrentado pela empresa parceira, a solução desenvolvida se configura em um sistema para gerenciamento de parcerias, onde administradores cadastram parcerias em potencial e atualizam informações acerca das reuniões ocorridas, assim monitorando o status em que a instituição se encontra no processo de fechamento de parceria.
+Para início do desenvolvimento de um aplicativo para gerenciamento de parcerias (onde administradores cadastram parcerias em potencial e atualizam suas informações), nesta primeira sprint, tendo em mente o MVP, o time trabalhou nas funcionalidades mais valiosas, como o fluxo de parcerias (criação, listagem, edição e exclusão) e a manipulação de anotações de parceria (com sua listagem, criação e edição), além de login de usuários.
 
-> _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
+<span id="objetivos">
+    
+## :dart: Objetivos da Sprint
+Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são:
 
-:pushpin: Status do Projeto: **Em andamento** 🚧
+- :heavy_check_mark: **RF 01:** CRUD de parcerias
+- :heavy_check_mark: **RF 03:** Criação, edição e leitura de comentários de atualização em parcerias
+- :heavy_check_mark: **RNF 08:** Documentação no GitHub com mapeamento das regras de negócio do cliente
+- :heavy_check_mark: **RNF 09:** Utilzação de TypeScript
+- :heavy_check_mark: **RNF 10:** Utilização de React Native
 
-### 🏁 Entregas de Sprints
-Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web, mobile, back...), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
-| Sprint | Previsão de entrega | Status           | Histórico |
-|:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 02/04/2023 | ✔️ Em andamento    | Em breve... |
-| 02 | 23/04/2023 | 🛑 Não iniciada    | -- |
-| 03 | 14/05/2023 | 🛑 Não iniciada    | -- |
-| 04 | 04/06/2023 | 🛑 Não iniciada    | -- |
+<span id="entregas">
+        
+## 📲 Entregas
+Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints, Épicos e User Stories, através de comunicação direta entre o P.O. e o cliente. Para observar esses artefatos, acesse [este link](https://github.com/The-Bugger-Ducks/owl-partners-documentation#backlogs).
 
-→ [Voltar ao topo](#topo)
+Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo foi traduzido para um aplicativo em React Native e com as devidas integrações das funcionalidades acordadas para esta sprint.
 
-<span id="backlogs">
+### RF 01: CRUD de parcerias
 
-## :dart: Backlogs, Épicos & User Stories
+Este requisito se trata do cadastro, listagem, edição e exclusão de parcerias, onde, para isso, foi desenvolvido um fluxo básico de login e o acesso ao app, permitindo todas essas ações pelo usuário logado. A criação de contas, bem como outras ações relacionadas a contas de usuário serão desenvolvidas em próximas sprints, ao passo que toda a manipulação de parcerias, a grosso modo, já está estruturada e em pleno funcionamento.
 
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/69374340/226353531-c3f7c1e8-1490-4456-b03f-37785382ed39.png" alt="BACKLOGS" width="600px"/> 
-   <img src="https://user-images.githubusercontent.com/69374340/226354142-5d30a9e2-94d5-4a12-a9e6-e88efb640324.png" alt="USER STORIES" width="800px"/> 
+<img src="./partnerships.gif" alt="Demonstração do CRUD de parcerias" />
 </div>
 
+### RF 03: Criação, edição e leitura de comentários de atualização em parcerias
+
+Este requisito se trata da criação, edição e leitura de comentários de atualização em parcerias, requisito este finalizado nesta sprint, como pode-se observar na demonstração abaixo que contem um exemplo da listagem de comentários de uma paceria específica, bem como a criação e edição de um novo comentário.
+
+<div align="center">
+<img src="./comments.gif" alt="Demonstração da criação, edição e leitura de comentários de atualização em parcerias" />
+</div>
+
+### RNF 08: Documentação no GitHub com mapeamento das regras de negócio do cliente
+
+Este requisito não funcional se trata da documentação criada e armazenada no GitHub (como este arquivo). Para visualizar os artefatos da sprint, como backlogs (do produto e da sprint) acesse a [documentação geral do projeto](https://github.com/The-Bugger-Ducks/owl-partners-documentation). Já para as regras de negócio, acesse [este arquivo]().
+
+### RNF 09: Utilzação de TypeScript & RNF 10: Utilização de React Native
+
+Este requisito não funcional se trata da utilização de Typescript e React Native, que foi satisfeito ainda nesta sprint, dado que tanto no servidor, feito com Node, foi utilizado o Typescript quanto no aplicativo mobile, feito com Expo e React Native.
+
 → [Voltar ao topo](#topo)
 
-<span id="tecnologias">
-
-## 🛠️ Tecnologias
-
-As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
-
-<img src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" /> 
-<img src="https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="Typescript" />
-<img src="https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" /> 
-<img src="https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" /> 
-<img src="https://img.shields.io/badge/Styled_Components-CED4DA?style=for-the-badge&logo=styled-components&logoColor=ff309f" alt="Styled Components" /> 
-<img src="https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=1497ff" alt="React" /> 
-<img src="https://img.shields.io/badge/Node.js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node" />  
-<img src="https://img.shields.io/badge/Postgres-CED4DA?style=for-the-badge&logo=postgresql&logoColor=23316192" alt="Postgres" />  
-<img src="https://img.shields.io/badge/Express-CED4DA?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> 
-<img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" /> 
-<img src="https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord" /> 
-<img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
-<img src="https://img.shields.io/badge/Google%20Sheets-CED4DA?style=for-the-badge&logo=google-sheets&logoColor=34A853" alt="Google Sheets" /> 
+<span id="metricas">
     
-→ [Voltar ao topo](#topo)
+## :chart_with_upwards_trend: Métricas do time
+Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsabilizou pela criação da interface e integrações das funcionalidades e o backend pela estruturação do banco de dados e rotas a serem consumidas. 
+- Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
+    
+<div align="center">
+<img src="" alt="Gráfico Burndown" />
+</div>
 
-<span id="equipe">
+<span id="links">
+    
+## :link: Links úteis
 
-## :busts_in_silhouette: Equipe
-
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   Product Owner    | Giovana Thaís de Oliveira Silva       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)            |
-| Scrum Master  | Isabelle Dias Ribeiro Silva |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/drisabelles) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/drisabelles)      |
-|   Dev Team    | Gabriel Camargo Leite                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-leite/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
-|   Dev Team    | João Marcos Oliveira Santos           |    [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcoso/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoM-py)                |
-|   Dev Team    | Maria Gabriela Garcia dos Santos Reis |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)      |
-| Dev Team | Thiago Henrique Ferreira              |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-henrique-ferreira-2499a41a8/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ThHenrique)| 
+- Tags geradas em cada repositório que simbolizam o fim da 1ª sprint:
+  - Repositório do app: [clique aqui para acessar "owl-partners-mobile"](https://github.com/The-Bugger-Ducks/owl-partners-mobile)
+  - Repositório da API: [clique aqui para acessar "owl-partners-back"](https://github.com/The-Bugger-Ducks/owl-partners-back)
 
 → [Voltar ao topo](#topo)
