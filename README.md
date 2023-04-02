@@ -33,7 +33,7 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 ## :dart: Backlogs, Épicos & User Stories
 
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/69374340/226353531-c3f7c1e8-1490-4456-b03f-37785382ed39.png" alt="BACKLOGS" width="600px"/> 
+   <img src="https://user-images.githubusercontent.com/79321198/229378799-5f83964c-268f-4ae2-952b-fac303f9ba3b.png" alt="BACKLOGS" width="600px"/> 
    <img src="https://user-images.githubusercontent.com/69374340/226354142-5d30a9e2-94d5-4a12-a9e6-e88efb640324.png" alt="USER STORIES" width="800px"/> 
 </div>
 
