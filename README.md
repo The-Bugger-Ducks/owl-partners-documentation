@@ -47,7 +47,7 @@ Este requisito se trata da criação, edição e leitura de comentários de atua
 
 ### RNF 08: Documentação no GitHub com mapeamento das regras de negócio do cliente
 
-Este requisito não funcional se trata da documentação criada e armazenada no GitHub (como este arquivo). Para visualizar os artefatos da sprint, como backlogs (do produto e da sprint) acesse a [documentação geral do projeto](https://github.com/The-Bugger-Ducks/owl-partners-documentation). Já para as regras de negócio, acesse [este arquivo]().
+Este requisito não funcional se trata da documentação criada e armazenada no GitHub (como este arquivo). Para visualizar os artefatos da sprint, como backlogs (do produto e da sprint) acesse a [documentação geral do projeto](https://github.com/The-Bugger-Ducks/owl-partners-documentation).
 
 ### RNF 09: Utilzação de TypeScript & RNF 10: Utilização de React Native
 
