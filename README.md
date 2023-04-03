@@ -46,12 +46,13 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
 
 <img src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" /> 
+<img src="https://img.shields.io/badge/Node.Js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor=3A5F0B" alt="Node.js" /> 
 <img src="https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="Typescript" />
 <img src="https://img.shields.io/badge/Styled_Components-CED4DA?style=for-the-badge&logo=styled-components&logoColor=ff309f" alt="Styled Components" /> 
 <img src="https://img.shields.io/badge/React_Native-CED4DA?style=for-the-badge&logo=react&logoColor=1497ff" alt="React Native" /> 
 <img src="https://img.shields.io/badge/Expo-CED4DA?style=for-the-badge&logo=expo&logoColor=303030" alt="React Native" /> 
 <img src="https://img.shields.io/badge/Axios-CED4DA?style=for-the-badge&logo=axios&logoColor=0000FF" alt="Axios" /> 
-<img src="https://img.shields.io/badge/React_Hook_Form-CED4DA?style=for-the-badge&logo=reacthookform&logoColor=FF3659" alt="React Hook Form" /> 
+<img src="https://img.shields.io/badge/React_Hook_Form-CED4DA?style=for-the-badge&logo=reacthookform&logoColor=#FF0D86" alt="React Hook Form" /> 
 <img src="https://img.shields.io/badge/NestJs-CED4DA?style=for-the-badge&logo=nestjs&logoColor=AA4A44" alt="NestJs" />  
 <img src="https://img.shields.io/badge/Postgres-CED4DA?style=for-the-badge&logo=postgresql&logoColor=23316192" alt="Postgres" />  
 <img src="https://img.shields.io/badge/Prisma-CED4DA?style=for-the-badge&logo=prisma&logoColor=303030" alt="Prisma" /> 
