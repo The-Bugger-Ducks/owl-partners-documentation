@@ -19,7 +19,7 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 - :heavy_check_mark: **RF 01:** CRUD de parcerias
 - :heavy_check_mark: **RF 03:** Criação, edição e leitura de comentários de atualização em parcerias
 - :heavy_check_mark: **RNF 08:** Documentação no GitHub com mapeamento das regras de negócio do cliente
-- :heavy_check_mark: **RNF 09:** Utilzação de TypeScript
+- :heavy_check_mark: **RNF 09:** Utilização de TypeScript
 - :heavy_check_mark: **RNF 10:** Utilização de React Native
 
 <span id="entregas">
