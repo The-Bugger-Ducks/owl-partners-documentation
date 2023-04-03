@@ -21,8 +21,8 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, a soluç
 Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web, mobile, back...), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 02/04/2023 | ✔️ Em andamento    | Em breve... |
-| 02 | 23/04/2023 | 🛑 Não iniciada    | -- |
+| 01 | 02/04/2023 | ✔️ Concluída    | [Ver relatório](https://github.com/The-Bugger-Ducks/owl-partners-documentation/blob/sprint-01/README.md) |
+| 02 | 23/04/2023 | 🏗️ Em andamento    | Em breve |
 | 03 | 14/05/2023 | 🛑 Não iniciada    | -- |
 | 04 | 04/06/2023 | 🛑 Não iniciada    | -- |
 
