@@ -50,10 +50,12 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/Styled_Components-CED4DA?style=for-the-badge&logo=styled-components&logoColor=ff309f" alt="Styled Components" /> 
 <img src="https://img.shields.io/badge/React_Native-CED4DA?style=for-the-badge&logo=react&logoColor=1497ff" alt="React Native" /> 
 <img src="https://img.shields.io/badge/Expo-CED4DA?style=for-the-badge&logo=expo&logoColor=303030" alt="React Native" /> 
-<img src="https://img.shields.io/badge/NestJs-CED4DA?style=for-the-badge&logo=nestjs&logoColor=AA4A44" alt="Nest" />  
+<img src="https://img.shields.io/badge/Axios-CED4DA?style=for-the-badge&logo=axios&logoColor=0000FF" alt="Axios" /> 
+<img src="https://img.shields.io/badge/React_Hook_Form-CED4DA?style=for-the-badge&logo=reacthookform&logoColor=FF3659" alt="React Hook Form" /> 
+<img src="https://img.shields.io/badge/NestJs-CED4DA?style=for-the-badge&logo=nestjs&logoColor=AA4A44" alt="NestJs" />  
 <img src="https://img.shields.io/badge/Postgres-CED4DA?style=for-the-badge&logo=postgresql&logoColor=23316192" alt="Postgres" />  
-<img src="https://img.shields.io/badge/Prisma-CED4DA?style=for-the-badge&logo=prisma&logoColor=303030" alt="Express" /> 
-<img src="https://img.shields.io/badge/Docker-CED4DA?style=for-the-badge&logo=docker&logoColor=000080" alt="Express" /> 
+<img src="https://img.shields.io/badge/Prisma-CED4DA?style=for-the-badge&logo=prisma&logoColor=303030" alt="Prisma" /> 
+<img src="https://img.shields.io/badge/Docker-CED4DA?style=for-the-badge&logo=docker&logoColor=000080" alt="Docker" /> 
 <img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" />
 <img src="https://img.shields.io/badge/Swagger-CED4DA?style=for-the-badge&logo=swagger&logoColor=3A5F0B" alt="Swagger" /> 
 <img src="https://img.shields.io/badge/Render-CED4DA?style=for-the-badge&logo=render&logoColor=4B8B3B" alt="Render" /> 
