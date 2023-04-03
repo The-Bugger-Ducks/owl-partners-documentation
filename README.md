@@ -58,7 +58,7 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
     
 <div align="center">
-<img src="" alt="Gráfico Burndown" />
+<img src="https://user-images.githubusercontent.com/79321198/229389379-a5ed9345-beed-448b-8785-b5f8184e0374.png" alt="Gráfico Burndown" />
 </div>
 
 <span id="links">
