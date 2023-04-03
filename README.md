@@ -53,6 +53,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/NestJs-CED4DA?style=for-the-badge&logo=nestjs&logoColor=AA4A44" alt="Nest" />  
 <img src="https://img.shields.io/badge/Postgres-CED4DA?style=for-the-badge&logo=postgresql&logoColor=23316192" alt="Postgres" />  
 <img src="https://img.shields.io/badge/Prisma-CED4DA?style=for-the-badge&logo=prisma&logoColor=303030" alt="Express" /> 
+<img src="https://img.shields.io/badge/Docker-CED4DA?style=for-the-badge&logo=docker&logoColor=000080" alt="Express" /> 
 <img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" />
 <img src="https://img.shields.io/badge/Swagger-CED4DA?style=for-the-badge&logo=swagger&logoColor=3A5F0B" alt="Swagger" /> 
 <img src="https://img.shields.io/badge/Render-CED4DA?style=for-the-badge&logo=render&logoColor=4B8B3B" alt="Render" /> 
