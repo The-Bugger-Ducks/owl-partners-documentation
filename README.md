@@ -28,16 +28,24 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 Para entregas da sprint foi garantido o desenvolvimento do CRUD de reuniões, juntamente com a manipulação das anotações de reunião, além do fluxo de usuários, com sua listagem, criação, edição, exclusão, login e logout. Segue um vídeo demonstrativo das entregas da sprint:
 
 <div align="center">
-<img src="./sprint-2-demo.gif" alt="Demonstração das entregas da sprint 2" />
+    <img src="./sprint-2-demo.gif" alt="Demonstração das entregas da sprint 2" />
 </div>
 
 ### RF 06: CRUD de reuniões
 
-Em breve...
+Este requisito funcional diz respeito às ações de criação, listagem, edição e exclusão de reuniões, onde é possível observar tais funcionalidades na tela inicial, com as listagens de "próximas reuniões" e "últimas reuniões", ou nos detalhes de uma parceria, mais precisamente no histórico, na aba de reuniões. Ao acessar uma reunião é possível conferir seus dados, como parceria, data, horário e tema, além de poder ver e cadastrar anotações, como nas demonstrações abaixo:
+
+<div align="center">
+    <img src="./crud-reunioes.gif" alt="Demonstração do requisito funcional 6" />
+</div>
 
 ### RF 07: Criação, edição e leitura de comentários de anotação de reuniões
 
-Em breve...
+Este requisito funcional se trata da criação, edição e listagens de anotações de uma reunião, onde se pode acessar ao selecionar uma reunião na tela inicial ou selecionar uma reunião dentro da tela de detalhes de parceria. Na tela dos detalhes da reunião é possível ver a listagem de anotações, quando existentes, bem como a criação de novas anotações e edição das mesmas, como o demonstrado a seguir:
+
+<div align="center">
+    <img src="./crud-anotacoes.gif"  alt="Demonstração do requisito funcional 7" />
+</div>
 
 ### RNF 08: Documentação no GitHub com mapeamento das regras de negócio do cliente
 
@@ -56,7 +64,7 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
     
 <div align="center">
-<img src="" alt="Gráfico Burndown" />
+    <img src="" alt="Gráfico Burndown" />
 </div>
 
 <span id="links">
