@@ -28,7 +28,8 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 Para entregas da sprint foi garantido o desenvolvimento do CRUD de reuniões, juntamente com a manipulação das anotações de reunião, além do fluxo de usuários, com sua listagem, criação, edição, exclusão, login e logout. Segue um vídeo demonstrativo das entregas da sprint:
 
 <div align="center">
-    <img src="./sprint-2-demo.gif" alt="Demonstração das entregas da sprint 2" />
+
+https://user-images.githubusercontent.com/69374340/233815050-5723ad3a-f3d2-42a0-b9b5-65539799b5d6.mp4
 </div>
 
 ### RF 06: CRUD de reuniões
@@ -36,7 +37,8 @@ Para entregas da sprint foi garantido o desenvolvimento do CRUD de reuniões, ju
 Este requisito funcional diz respeito às ações de criação, listagem, edição e exclusão de reuniões, onde é possível observar tais funcionalidades na tela inicial, com as listagens de "próximas reuniões" e "últimas reuniões", ou nos detalhes de uma parceria, mais precisamente no histórico, na aba de reuniões. Ao acessar uma reunião é possível conferir seus dados, como parceria, data, horário e tema, além de poder ver e cadastrar anotações, como nas demonstrações abaixo:
 
 <div align="center">
-    <img src="./crud-reunioes.gif" alt="Demonstração do requisito funcional 6" />
+
+https://user-images.githubusercontent.com/69374340/233813651-c5be575e-fa14-4b31-ac89-c009b3c15fcd.mp4
 </div>
 
 ### RF 07: Criação, edição e leitura de comentários de anotação de reuniões
@@ -44,7 +46,8 @@ Este requisito funcional diz respeito às ações de criação, listagem, ediç�
 Este requisito funcional se trata da criação, edição e listagens de anotações de uma reunião, onde se pode acessar ao selecionar uma reunião na tela inicial ou selecionar uma reunião dentro da tela de detalhes de parceria. Na tela dos detalhes da reunião é possível ver a listagem de anotações, quando existentes, bem como a criação de novas anotações e edição das mesmas, como o demonstrado a seguir:
 
 <div align="center">
-    <img src="./crud-anotacoes.gif"  alt="Demonstração do requisito funcional 7" />
+
+https://user-images.githubusercontent.com/69374340/233814140-3a878559-74a0-49ad-9f2c-a6b58b643219.mp4
 </div>
 
 ### RNF 08: Documentação no GitHub com mapeamento das regras de negócio do cliente
