@@ -29,7 +29,8 @@ Para entregas da sprint foi garantido o desenvolvimento do CRUD de reuniões, ju
 
 <div align="center">
 
-https://user-images.githubusercontent.com/69374340/233815050-5723ad3a-f3d2-42a0-b9b5-65539799b5d6.mp4
+https://user-images.githubusercontent.com/69374340/233815050-5723ad3a-f3d2-42a0-b9b5-65539799b5d6.mp4   
+
 </div>
 
 ### RF 06: CRUD de reuniões
@@ -39,6 +40,7 @@ Este requisito funcional diz respeito às ações de criação, listagem, ediç�
 <div align="center">
 
 https://user-images.githubusercontent.com/69374340/233813651-c5be575e-fa14-4b31-ac89-c009b3c15fcd.mp4
+    
 </div>
 
 ### RF 07: Criação, edição e leitura de comentários de anotação de reuniões
@@ -48,6 +50,7 @@ Este requisito funcional se trata da criação, edição e listagens de anotaç�
 <div align="center">
 
 https://user-images.githubusercontent.com/69374340/233814140-3a878559-74a0-49ad-9f2c-a6b58b643219.mp4
+    
 </div>
 
 ### RNF 08: Documentação no GitHub com mapeamento das regras de negócio do cliente
@@ -67,7 +70,9 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
     
 <div align="center">
-    <img src="" alt="Gráfico Burndown" />
+
+<img src=https://user-images.githubusercontent.com/79321198/233816213-1eedd109-98f4-4a8f-91c1-b186505dfbb4.png>
+    
 </div>
 
 <span id="links">
