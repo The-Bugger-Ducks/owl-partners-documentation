@@ -22,8 +22,8 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 02/04/2023 | ✔️ Concluída    | [Ver relatório](https://github.com/The-Bugger-Ducks/owl-partners-documentation/blob/sprint-01/README.md) |
-| 02 | 23/04/2023 | 🏗️ Em andamento    | Em breve |
-| 03 | 14/05/2023 | 🛑 Não iniciada    | -- |
+| 02 | 23/04/2023 | ✔️ Concluída    | [Ver relatório](https://github.com/The-Bugger-Ducks/owl-partners-documentation/blob/sprint-02/README.md) |
+| 03 | 14/05/2023 | 🏗️ Em andamento    | Em breve |
 | 04 | 04/06/2023 | 🛑 Não iniciada    | -- |
 
 → [Voltar ao topo](#topo)
