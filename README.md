@@ -71,8 +71,8 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
     
 <div align="center">
 
-<img src=https://user-images.githubusercontent.com/79321198/233816213-1eedd109-98f4-4a8f-91c1-b186505dfbb4.png>
-    
+<img src=https://user-images.githubusercontent.com/79321198/235675667-2ed252c7-0f77-4caa-89b3-65e64050ec21.png alt="Gráfico do Burndown">
+
 </div>
 
 <span id="links">
