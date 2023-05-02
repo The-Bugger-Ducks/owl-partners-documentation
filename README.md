@@ -27,11 +27,7 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 ## 📲 Entregas
 Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints, Épicos e User Stories, através de comunicação direta entre o P.O. e o cliente. Para observar esses artefatos, acesse [este link](https://github.com/The-Bugger-Ducks/owl-partners-documentation#backlogs).
 
-Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo foi traduzido para um aplicativo em React Native e com as devidas integrações das funcionalidades acordadas para esta sprint. Abaixo se confere uma demosntração das entregas da sprint:
-
-<div align="center">
-<img src="./sprint-1-demo.gif" alt="Demonstração das entregas da sprint 1" />
-</div>
+Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo foi traduzido para um aplicativo em React Native e com as devidas integrações das funcionalidades acordadas para esta sprint.
 
 ### RF 01: CRUD de parcerias
 
@@ -58,7 +54,9 @@ Nesta sprint o time se dividiu entre mobile e backend, onde o mobile se responsa
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
     
 <div align="center">
-<img src="https://user-images.githubusercontent.com/79321198/229389379-a5ed9345-beed-448b-8785-b5f8184e0374.png" alt="Gráfico Burndown" />
+
+<img src="https://user-images.githubusercontent.com/79321198/235674242-e743ebe7-1de7-410e-98c2-4df5144b5fee.png" alt="Gráfico Burndown" />
+
 </div>
 
 <span id="links">
