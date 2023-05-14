@@ -46,6 +46,12 @@ Este requisito não funcional se trata da utilização de React e Python, que fo
 Nesta sprint o time se dividiu entre mobile, web e backend, onde o mobile se responsabilizou pelo gerenciamento de usuários e implementação de melhorias, enquanto o time web se focou na estruturação da dashboard e o backend criou o serviço que popularia esta dashboad. 
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
 
+<div align="center">
+    
+   <img src="https://github.com/The-Bugger-Ducks/owl-partners-documentation/assets/79321198/e3fe2ef6-5c40-4544-a2e9-ccc9d27fa91e">
+    
+</div>
+
 <span id="links">
     
 ## :link: Links úteis
