@@ -9,34 +9,38 @@
     <a href="#links">Links úteis</a>
 </p>
 
-Para esta 3ª sprint o foco do desenvolvimento foi no dashboard web, além da implementação do gerenciamento de usuários (listagens, criação, edição e exclusão) e, é claro, aplicação de melhorias no aplicativo como um todo.
+Para esta 3ª sprint o foco do desenvolvimento foi em melhorias do aplicativo além da implementação de CRUD de usuários e finalização do login/logout no app. Já em questão da web, temos o início dos endpoints que serão consumidos na dashboard e a implementação de autenticação.
 
 <span id="objetivos">
     
 ## :dart: Objetivos da Sprint
 Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são:
 
-- :heavy_check_mark: **RF 02:** Dashboard para análises e forecast
+- :heavy_check_mark: **RF 05:** Login e logout do sistema
+- :heavy_check_mark: **RF 04:** CRUD de usuários
 - :heavy_check_mark: **RNF 08:** Documentação no GitHub com mapeamento das regras de negócio do cliente
 - :heavy_check_mark: **RNF 11:** Utilização de React
-- :heavy_check_mark: **RNF 12:** Utilização de Python
 
 <span id="entregas">
         
 ## 📲 Entregas
-Para as entregas da sprint foi acordado o início do desenvolvimento do dashboard web contendo o forecast juntamente com o gerenciamento de usuários no aplicativo móvel, onde ambas as tarefas podem ser observadas na demonstração a seguir:
+Para as entregas da sprint foi acordado o início do desenvolvimento do dashboard web juntamente com o gerenciamento de usuários no aplicativo móvel (o CRUD completo exceto gerenciamento de permissões), onde se pode checar na demonstração a seguir:
+    
+### RF 05: Login e logout do sistema
+    
+Completando o fluxo de usuários no aplicativo, agora é possível fazer login e logout no sistema, além de ter a criação de contas por parte dos usuários (que sempre serão cadastrados por padrão como visitantes e depois podem ser alterados para administradores).
 
-### RF 02: Dashboard para análises e forecast
+### RF 04: CRUD de usuários
 
-Em breve...
-
+Continuando a questão do fluxo de usuários no aplicativo, foi adicionado a listagem, edição e exclusão de usuários, além da possibilidade de criar uma conta própria (por padrão do tipo "visitante").
+    
 ### RNF 08: Documentação no GitHub com mapeamento das regras de negócio do cliente
 
 Este requisito não funcional se trata da documentação criada e armazenada no GitHub (como este arquivo). Para visualizar os artefatos da sprint, como backlogs (do produto e da sprint) acesse a [documentação geral do projeto](https://github.com/The-Bugger-Ducks/owl-partners-documentation).
 
-### RNF 11: Utilzação de React & RNF 12: Utilização de Python
+### RNF 11: Utilzação de React
 
-Este requisito não funcional se trata da utilização de React e Python, que foi satisfeito nesta sprint pois o React foi utilizado no desenvolvimento da dashboard web enquanto o Python foi utilizado no servidor como serviço para análise dos dados (aplicados no forecast).
+Este requisito não funcional se trata da utilização de React, que foi satisfeito nesta sprint pois a tecnologia foi utilizada no desenvolvimento da dashboard web.
 
 → [Voltar ao topo](#topo)
 
