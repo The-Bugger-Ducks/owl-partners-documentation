@@ -74,7 +74,7 @@ Nesta sprint o time se dividiu entre mobile, web e backend, onde o mobile se res
 
 <div align="center">
     
-   <img src="https://github.com/The-Bugger-Ducks/owl-partners-documentation/assets/79321198/e3fe2ef6-5c40-4544-a2e9-ccc9d27fa91e">
+   <img src="https://github.com/The-Bugger-Ducks/owl-partners-documentation/assets/79321198/85a9098a-7ec7-42b0-a01e-24a1c121f9cb" alt="Gráfico do Burndown">
     
 </div>
 
