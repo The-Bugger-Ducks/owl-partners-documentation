@@ -24,7 +24,7 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 <span id="entregas">
         
 ## 📲 Entregas
-Para as entregas da sprint foi acordado o início do desenvolvimento do dashboard web juntamente com o gerenciamento de usuários no aplicativo móvel (o CRUD completo exceto gerenciamento de permissões), onde se pode checar na demonstração a seguir:
+Para as entregas da sprint foi acordado o início do desenvolvimento do dashboard web juntamente com o gerenciamento de usuários no aplicativo móvel (o CRUD completo exceto gerenciamento de permissões).
     
 ### RF 05: Login e logout do sistema
     
@@ -33,6 +33,28 @@ Completando o fluxo de usuários no aplicativo, agora é possível fazer login e
 ### RF 04: CRUD de usuários
 
 Continuando a questão do fluxo de usuários no aplicativo, foi adicionado a listagem, edição e exclusão de usuários, além da possibilidade de criar uma conta própria (por padrão do tipo "visitante").
+
+<details>
+   <summary>Demonstração do <b>cadastro de usuários</b></summary> <br>
+  
+   https://github.com/The-Bugger-Ducks/owl-partners-mobile/assets/80930525/1bada4de-c491-402c-bf67-54e577c08c92
+</details>
+<details>
+   <summary>Demonstração da <b>exclusão de usuárioso</b></summary> <br>
+  
+   https://github.com/The-Bugger-Ducks/owl-partners-mobile/assets/80930525/292c5ea7-3ce8-4d7b-9d42-08c91a6b358b
+</details>
+<details>
+   <summary>Demonstração da <b>edição de usuários</b></summary> <br>
+  
+   https://github.com/The-Bugger-Ducks/owl-partners-mobile/assets/80930525/09b664be-c699-48fa-bd58-3f63f232f174
+</details>
+<details>
+   <summary>Demonstração da <b>edição de senha e login</b></summary> <br>
+  
+   https://github.com/The-Bugger-Ducks/owl-partners-mobile/assets/80930525/11784516-2046-4e3d-b9ad-27152e280ddb
+</details>
+
     
 ### RNF 08: Documentação no GitHub com mapeamento das regras de negócio do cliente
 
