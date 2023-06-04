@@ -50,7 +50,8 @@ Nesta sprint o time se dividiu entre mobile, web e backend, onde o mobile se res
 - Abaixo se encontra o gráfico Burndown gerado pela equipe nesta sprint, onde o eixo X são os dias trabalhados e o eixo Y representa as entregas de cada dia:
 
 <div align="center">
-   <img src="" alt="Gráfico do Burndown">
+   <img src="https://github.com/The-Bugger-Ducks/owl-partners-documentation/assets/79321198/1cbbaf3b-1de8-4120-8ea7-f85e0fad4e6d" alt="Gráfico do Burndown">
+
 </div>
 
 <span id="links">
