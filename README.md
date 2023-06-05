@@ -15,7 +15,7 @@ A partir da apresentação do desafio enfrentado pela empresa parceira, a soluç
 
 > _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
 
-:pushpin: Status do Projeto: **Em andamento** 🚧
+:pushpin: Status do Projeto: **Concluído** ✔️
 
 ### 🏁 Entregas de Sprints
 Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web, mobile, back...), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
@@ -24,7 +24,7 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 | 01 | 02/04/2023 | ✔️ Concluída    | [Ver relatório](https://github.com/The-Bugger-Ducks/owl-partners-documentation/blob/sprint-01/README.md) |
 | 02 | 23/04/2023 | ✔️ Concluída    | [Ver relatório](https://github.com/The-Bugger-Ducks/owl-partners-documentation/blob/sprint-02/README.md) |
 | 03 | 14/05/2023 | ✔️ Concluída    | [Ver relatório](https://github.com/The-Bugger-Ducks/owl-partners-documentation/blob/sprint-03/README.md) |
-| 04 | 04/06/2023 | 🏗️ Em andamento    | Em breve |
+| 04 | 04/06/2023 | ✔️ Concluída    | [Ver relatório](https://github.com/The-Bugger-Ducks/owl-partners-documentation/blob/sprint-04/README.md) |
 
 → [Voltar ao topo](#topo)
 
@@ -33,8 +33,9 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 ## :dart: Backlogs, Épicos & User Stories
 
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/79321198/229378799-5f83964c-268f-4ae2-952b-fac303f9ba3b.png" alt="BACKLOGS" width="600px"/> 
-   <img src="https://user-images.githubusercontent.com/69374340/226354142-5d30a9e2-94d5-4a12-a9e6-e88efb640324.png" alt="USER STORIES" width="800px"/> 
+   <img src="https://github.com/The-Bugger-Ducks/owl-partners-documentation/assets/69374340/61a3b06a-10ba-4451-b627-5831310625d3" alt="PRODUCT BACKLOG" /> 
+   <img src="https://github.com/The-Bugger-Ducks/owl-partners-documentation/assets/69374340/a420ce7d-c005-42d3-b3e2-17f0a96e6e2b" alt="SPRINT BACKLOG" /> 
+   <img src="https://github.com/The-Bugger-Ducks/owl-partners-documentation/assets/69374340/3a54cca2-45ec-4424-8b07-e1c986e4e760" alt="USER STORIES" /> 
 </div>
 
 → [Voltar ao topo](#topo)
@@ -50,9 +51,10 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="Typescript" />
 <img src="https://img.shields.io/badge/Styled_Components-CED4DA?style=for-the-badge&logo=styled-components&logoColor=ff309f" alt="Styled Components" /> 
 <img src="https://img.shields.io/badge/React_Native-CED4DA?style=for-the-badge&logo=react&logoColor=1497ff" alt="React Native" /> 
-<img src="https://img.shields.io/badge/Expo-CED4DA?style=for-the-badge&logo=expo&logoColor=303030" alt="React Native" /> 
+<img src="https://img.shields.io/badge/Expo-CED4DA?style=for-the-badge&logo=expo&logoColor=303030" alt="Expo" /> 
 <img src="https://img.shields.io/badge/Axios-CED4DA?style=for-the-badge&logo=axios&logoColor=0000FF" alt="Axios" /> 
 <img src="https://img.shields.io/badge/React_Hook_Form-CED4DA?style=for-the-badge&logo=reacthookform&logoColor=#FF0D86" alt="React Hook Form" /> 
+<img src="https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=1497ff" alt="React" /> 
 <img src="https://img.shields.io/badge/NestJs-CED4DA?style=for-the-badge&logo=nestjs&logoColor=AA4A44" alt="NestJs" />  
 <img src="https://img.shields.io/badge/Postgres-CED4DA?style=for-the-badge&logo=postgresql&logoColor=23316192" alt="Postgres" />  
 <img src="https://img.shields.io/badge/Prisma-CED4DA?style=for-the-badge&logo=prisma&logoColor=303030" alt="Prisma" /> 
