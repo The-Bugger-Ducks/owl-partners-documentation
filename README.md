@@ -29,6 +29,8 @@ Para as entregas da sprint o combinado foi a dashboard web com as análises dos 
     
 Finalizando a parte web do projeto, foi desenvolvida uma dashboard com a análise dos dados disponíveis, como o acordado com o cliente, apresentando alguns totalizadores, listas e gráficos, como o demonstrado abaixo:
 
+https://github.com/The-Bugger-Ducks/owl-partners-documentation/assets/69374340/9fb9fbbb-00f1-4660-8cd9-628458c6717c
+
 ### RF 04: CRUD de usuários
 
 Finalizando todas as etapas da gestão de usuários, agora é possível promover ou rebaixar os níveis de permissão de cada usuário, que por padrão são cadastrados como "visitantes" mas podem ser promovidos a "administrador" por um administrador já cadastrado na plataforma.
