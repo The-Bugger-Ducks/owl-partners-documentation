@@ -35,6 +35,8 @@ https://github.com/The-Bugger-Ducks/owl-partners-documentation/assets/69374340/9
 
 Finalizando todas as etapas da gestão de usuários, agora é possível promover ou rebaixar os níveis de permissão de cada usuário, que por padrão são cadastrados como "visitantes" mas podem ser promovidos a "administrador" por um administrador já cadastrado na plataforma.
 
+https://github.com/The-Bugger-Ducks/owl-partners-documentation/assets/69374340/d2e99591-525e-47ad-bf9c-fc42f590f61f
+
 ### RNF 08: Documentação no GitHub com mapeamento das regras de negócio do cliente
 
 Este requisito não funcional se trata da documentação criada e armazenada no GitHub (como este arquivo). Para visualizar os artefatos da sprint, como backlogs (do produto e da sprint) acesse a [documentação geral do projeto](https://github.com/The-Bugger-Ducks/owl-partners-documentation).
