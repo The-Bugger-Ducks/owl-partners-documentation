@@ -1,0 +1,9 @@
+[submodule "Backend owl-partners-back"]
+	path = Backend owl-partners-back
+	url = https://github.com/The-Bugger-Ducks/owl-partners-back.git
+[submodule "Frontend owl-partners-web"]
+	path = Frontend owl-partners-web
+	url = https://github.com/The-Bugger-Ducks/owl-partners-web.git
+[submodule "Mobile owl-partners-mobile"]
+	path = Mobile owl-partners-mobile
+	url = https://github.com/The-Bugger-Ducks/owl-partners-mobile.git
